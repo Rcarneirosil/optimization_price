@@ -1,4 +1,4 @@
-# optimization_price
+# Regressão Linear aplicada a Pricing & Revenue Management: uma abordagem "simplificada"
 Projeto de otimização de preços via regressão linear simples
 ### Introdução
 
